@@ -1,1 +1,1 @@
-https://angelina-pysanyuk.github.io/goit-markup-hw-01./
+https://angelina-pysanyuk.github.io/goit-markup-hw-01/
